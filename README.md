@@ -1,0 +1,4 @@
+Projekt SWSK
+============
+
+programator: yin
